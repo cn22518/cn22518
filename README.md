@@ -9,7 +9,7 @@
   -Designed and optimized an exponentiation function, reducing computation steps by 30% through divide-and-conquer.
 
   -Debugged infinite loop issues and improved recursion depth tracking, ensuring 100% pass rate on basic tests. 
-  - [Power Coursework](https://github.com/cn22518)
+  - [Power Coursework](./power.hs)
 - <b>List Data Structure Implementation  </b>
 
   -Designed and implemented a memory-efficient doubly linked list in C, utilizing pointers and dynamic memory allocation.
@@ -38,17 +38,3 @@ test cases.
 
 
 [linkedin]: www.linkedin.com/in/hana-kashmiri-b111411a2
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
