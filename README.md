@@ -9,7 +9,7 @@
   -Designed and optimized an exponentiation function, reducing computation steps by 30% through divide-and-conquer.
 
   -Debugged infinite loop issues and improved recursion depth tracking, ensuring 100% pass rate on basic tests. 
-  - [Power Coursework](./power.hs)
+  - [Power Coursework](./Power.hs)
 - <b>List Data Structure Implementation  </b>
 
   -Designed and implemented a memory-efficient doubly linked list in C, utilizing pointers and dynamic memory allocation.
