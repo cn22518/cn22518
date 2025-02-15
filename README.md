@@ -19,7 +19,7 @@ cases.
 
   -Achieved 94% correctness and functionality, resolving segmentation faults and optimizing performance to pass 144 out of 153
 test cases. 
-  - [List Coursework](https://github.com/cn22518) 
+  - [List Coursework](list.c) 
 - <b>Image Converter </b>
 
   -Engineered a PGM-to-SK converter, processing over 100 test cases with a 98% success rate.
@@ -28,7 +28,7 @@ test cases.
 
   -Refined the code into modular, reusable functions, reducing redundancy and improving maintainability. 
   
-  - [Sketch & Converter Assignment)](https://github.com/cn22518)
+  - [Sketch & Converter Assignment)](sketch.c)
 
 
 <h2> 🤳 Connect with me:</h2>
